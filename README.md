@@ -19,7 +19,7 @@ I'm a **Full Stack Developer** passionate about building **interactive and scala
 - 🏆 **Problem Solver & Tech Enthusiast**  
 - 📖 **Currently Learning**: Advanced JavaScript & MERN Stack
 - 📫 How to reach me : <br>
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bkumaran2112@gmail.com@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile/)  
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bkumaran2112@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/balakumaran2112/)  
 
 
 
