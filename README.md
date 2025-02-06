@@ -1,11 +1,51 @@
-<h1 align="center">Hi 👋, I'm Balakumaran K</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# 👤 Hello, I'm Balakumaran! 👋  
 
-- 📫 How to reach me **bkumaran2112@gmail.com**
+Welcome to my GitHub profile!  
+I'm a **Full Stack Developer** passionate about building **interactive and scalable web applications**.  
+With expertise in **HTML, CSS, JavaScript, React.js, Bootstrap, Node.js, Express.js, SQLite, MongoDB, and Figma**,  
+I love creating seamless user experiences and exploring modern web technologies.  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+![Profile Views](https://komarev.com/ghpvc/?username=balakumaranbala2112&color=blueviolet)
+
+
+## 👨‍🎓 About Me  
+
+<table width="100%">
+<tr>
+<td width="60%" valign="top">
+
+- 🌍 **Portfolio:** [ Temporarily Unavailable](#)  
+- 🎓 **B.E CSE Student** at **UCE - Ariyalur**  
+- 💻 **Diving deep into Full Stack Web Development**  
+- 🚀 **Always eager to explore** the latest web development tools and frameworks  
+- 🏆 **Problem Solver & Tech Enthusiast**  
+- 📖 **Currently Learning**: Advanced JavaScript & MERN Stack
+- 📫 How to reach me : <br>
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bkumaran2112@gmail.com@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile/)  
+
+</td>  
+<td align="center" width="40%">
+  <img src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" width="350px" alt="Coding GIF">
+</td>
+</tr>
+</table>  
+
+## 🛠️ Skills & Tools  
+
+| **Frontend** | **Backend** | **Tools** |
+|--------------|-------------|-----------|
+| [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&width=120&height=30)](https://react.dev/) | [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&width=120&height=30)](https://nodejs.org/) | [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&width=120&height=30)](https://git-scm.com/) |
+| [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&width=120&height=30)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) | [![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white&width=120&height=30)](https://expressjs.com/) | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&width=120&height=30)](https://github.com/) |
+| [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&width=120&height=30)](https://developer.mozilla.org/en-US/docs/Web/CSS) | [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&width=120&height=30)](https://www.mongodb.com/) | [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&width=120&height=30)](https://code.visualstudio.com/) |
+| [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&width=120&height=30)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&width=120&height=30)](https://firebase.google.com/) | [![MS Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white&width=120&height=30)](https://www.microsoft.com/en-us/microsoft-365) |
+| [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&width=120&height=30)](https://tailwindcss.com/) | [![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=rest&logoColor=white&width=120&height=30)](https://www.restapitutorial.com/) | [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&width=120&height=30)](https://www.figma.com/) |
+
+
+
+## 📊 GitHub Stats  
+
+![Balakumaran's GitHub stats](https://github-readme-stats.vercel.app/api?username=balakumaranbala2112&theme=green&show_icons=true&&hide=issues,contribs)  
+
+
+Feel free to explore my repositories 😊!
