@@ -1,9 +1,7 @@
 # 👤 Hello, I'm Balakumaran! 👋  
 
 Welcome to my GitHub profile!  
-I'm a **Full Stack Developer** passionate about building **interactive and scalable web applications**.  
-With expertise in **HTML, CSS, JavaScript, React.js, Bootstrap, Node.js, Express.js, SQLite, MongoDB, and Figma**,  
-I love creating seamless user experiences and exploring modern web technologies.  
+I'm a **Full Stack Developer** passionate about building **interactive and scalable web applications**.With expertise in **HTML, CSS, JavaScript, React.js, Bootstrap, Node.js, Express.js, SQLite, MongoDB, and Figma**, I love creating seamless user experiences and exploring modern web technologies.  
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=balakumaranbala2112&color=blueviolet)
@@ -13,7 +11,12 @@ I love creating seamless user experiences and exploring modern web technologies.
 
 <table width="100%">
 <tr>
-<td width="60%" valign="top">
+<td align="left" width="100%">
+  <img src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" width="350px" alt="Coding GIF">
+</td>
+</tr>
+<tr>
+<td width="100%">
 
 - 🌍 **Portfolio:** [ Temporarily Unavailable](#)  
 - 🎓 **B.E CSE Student** at **UCE - Ariyalur**  
@@ -25,9 +28,7 @@ I love creating seamless user experiences and exploring modern web technologies.
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bkumaran2112@gmail.com@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile/)  
 
 </td>  
-<td align="center" width="40%">
-  <img src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" width="350px" alt="Coding GIF">
-</td>
+
 </tr>
 </table>  
 
