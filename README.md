@@ -9,14 +9,8 @@ I'm a **Full Stack Developer** passionate about building **interactive and scala
 
 ## 👨‍🎓 About Me  
 
-<table width="100%">
-<tr>
-<td align="left" width="100%">
+
   <img src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" width="350px" alt="Coding GIF">
-</td>
-</tr>
-<tr>
-<td width="100%">
 
 - 🌍 **Portfolio:** [ Temporarily Unavailable](#)  
 - 🎓 **B.E CSE Student** at **UCE - Ariyalur**  
@@ -27,10 +21,7 @@ I'm a **Full Stack Developer** passionate about building **interactive and scala
 - 📫 How to reach me : <br>
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bkumaran2112@gmail.com@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile/)  
 
-</td>  
 
-</tr>
-</table>  
 
 ## 🛠️ Skills & Tools  
 
