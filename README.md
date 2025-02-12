@@ -1,4 +1,6 @@
-# 👤 Hello, I'm Balakumaran! 👋  
+<h1 align="center">
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E7CFFA8&vCenter=true&width=435&lines=Hello%2C+%F0%9F%91%8B+I'm+Balakumaran!+">
+</h1>
 
 Welcome to my GitHub profile!  
 I'm a **Full Stack Developer** passionate about building **interactive and scalable web applications**.With expertise in **HTML, CSS, JavaScript, React.js, Bootstrap, Node.js, Express.js, SQLite, MongoDB, and Figma**, I love creating seamless user experiences and exploring modern web technologies.  
