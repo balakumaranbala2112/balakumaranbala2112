@@ -1,29 +1,26 @@
-<h1 align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E7CFFA8&vCenter=true&width=435&lines=Hello%2C+%F0%9F%91%8B+I'm+Balakumaran!+">
-</h1>
 
-Welcome to my GitHub profile!  
-I'm a **Full Stack Developer** passionate about building **interactive and scalable web applications**.With expertise in **HTML, CSS, JavaScript, React.js, Bootstrap, Node.js, Express.js, SQLite, MongoDB, and Figma**, I love creating seamless user experiences and exploring modern web technologies.  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=balakumaranbala2112&color=blueviolet&style=for-the-badge" />
+</p>
 
-
-![Profile Views](https://komarev.com/ghpvc/?username=balakumaranbala2112&color=blueviolet)
+<img align="center" width="100%" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
 
 
-## 👨‍🎓 About Me  
+## 👨‍💻 About Me  
+
+I’m a **Full Stack Developer** focused on building **interactive, scalable, and real-world web applications**.
+
+- 🎓 B.E Computer Science Student at **UCE – Ariyalur**  
+- 💻 Diving deep into **MERN Stack Development**  
+- 🚀 Interested in building production-ready projects  
+- 🏆 Strong problem-solving mindset  
+- 📖 Currently learning: **Advanced JavaScript + Backend Architecture**
 
 
-  <img src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" width="350px" alt="Coding GIF">
+## 🌐 Connect With Me  
 
-- 🌍 **Portfolio:** [ Temporarily Unavailable](#)  
-- 🎓 **B.E CSE Student** at **UCE - Ariyalur**  
-- 💻 **Diving deep into Full Stack Web Development**  
-- 🚀 **Always eager to explore** the latest web development tools and frameworks  
-- 🏆 **Problem Solver & Tech Enthusiast**  
-- 📖 **Currently Learning**: Advanced JavaScript & MERN Stack
-- 📫 How to reach me : <br>
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bkumaran2112@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/balakumaran2112/)  
-
-
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bkumaran2112@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/balakumaran2112/)
 
 ## 🛠️ Skills & Tools  
 
@@ -35,11 +32,7 @@ I'm a **Full Stack Developer** passionate about building **interactive and scala
 | [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&width=120&height=30)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&width=120&height=30)](https://firebase.google.com/) | [![MS Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white&width=120&height=30)](https://www.microsoft.com/en-us/microsoft-365) |
 | [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&width=120&height=30)](https://tailwindcss.com/) | [![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=rest&logoColor=white&width=120&height=30)](https://www.restapitutorial.com/) | [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&width=120&height=30)](https://www.figma.com/) |
 
+## 📊 GitHub Analytics  
 
-
-## 📊 GitHub Stats  
-
-![Balakumaran's GitHub stats](https://github-readme-stats.vercel.app/api?username=balakumaranbala2112&theme=green&show_icons=true&&hide=issues,contribs)  
-
-
-Feel free to explore my repositories 😊!
+### 🔥 Current + Longest Streak  
+![GitHub Streak](https://streak-stats.demolab.com?user=balakumaranbala2112&theme=tokyonight&hide_border=true&ring=2E7CFF&fire=2E7CFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA)
