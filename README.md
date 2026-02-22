@@ -10,7 +10,7 @@
 
 I’m a **Full Stack Developer** focused on building **interactive, scalable, and real-world web applications**.
 
-- 🎓 B.E Computer Science Student at **UCE – Ariyalur**  
+- 🎓 B.E Computer Science Student at **UCE – Ariyalur** and **UCE Thirukkuvalai**
 - 💻 Diving deep into **MERN Stack Development**  
 - 🚀 Interested in building production-ready projects  
 - 🏆 Strong problem-solving mindset  
