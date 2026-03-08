@@ -15,7 +15,7 @@ I’m a **Full Stack Developer** focused on building **interactive, scalable, an
 - 💻 Diving deep into **MERN Stack Development**  
 - 🚀 Interested in building production-ready projects  
 - 🏆 Strong problem-solving mindset  
-- 📖 Currently learning: **Advanced JavaScript + Backend Architecture**
+- 📖 Currently learning: **Gen AI + Backend Architecture**
 
 
 ## 🌐 Connect With Me  
