@@ -12,7 +12,7 @@ I’m a **Full Stack Developer** focused on building **interactive, scalable, an
 
 - Portfolio - Currently Unavailable 
 - 🎓 B.E Computer Science Student at **UCE – Ariyalur** and **UCE Thirukkuvalai**
-- 💻 Diving deep into **MERN Stack Development**  
+- 💻 Diving deep into **MERN Stack Development and Gen AI**  
 - 🚀 Interested in building production-ready projects  
 - 🏆 Strong problem-solving mindset  
 - 📖 Currently learning: **Gen AI + Backend Architecture**
