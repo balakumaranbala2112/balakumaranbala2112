@@ -37,6 +37,6 @@ I’m a **Full Stack MERN Developer** focused on building **interactive, scalabl
 ### 🔥 Current + Longest Streak  
 ![GitHub Streak](https://streak-stats.demolab.com?user=balakumaranbala2112&theme=tokyonight&hide_border=true&ring=2E7CFF&fire=2E7CFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA)
 
-<p align="center">
+<p align="left">
     <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=balakumaranbala2112&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 </p>
